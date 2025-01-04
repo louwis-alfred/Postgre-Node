@@ -4,8 +4,8 @@ const con=new Client({
     host:"localhost",
     user:"postgres",
     port: 5432,
-    password: "Sam123",
-    database:"firstdb"
+    password: "your_password",
+    database:"your_database"
 
 })
 
